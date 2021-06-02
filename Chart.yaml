@@ -14,6 +14,6 @@ sources:
 - https://github.com/fluent/fluentd-kubernetes-daemonset
 - https://github.com/helm/charts/tree/master/incubator/fluentd-cloudwatch
 maintainers:
-- name: mayppong
-  email: me@mayppong.com
+- name: harishgopi
+  email: harishgopi97@gmail.com
 engine: gotpl
